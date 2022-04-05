@@ -1,0 +1,27 @@
+.im{
+    border-radius: 50%;
+    border: 2px solid rebeccapurple;
+    border-style: dashed;
+
+    width: 400px;
+    height: 250px;
+}
+
+.text{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-style: oblique;
+    text-shadow: 2px 2px 5px red;
+
+
+}
+
+.add{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-shadow: 2px 2px 5px red;
+
+
+}
